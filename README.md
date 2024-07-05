@@ -1,5 +1,5 @@
 
-# Challange LiterAlura
+# Challenge LiterAlura
 
 <p align="center">
   <img src="img/badge-literalura.png" width="300" alt="badge">
@@ -7,7 +7,7 @@
 
 ## Descrição
 
-O projeto Challange LiterAlura consiste em consumir a API do Gutendex, que é uma API de livros. Este projeto permite buscar, listar e exibir informações sobre livros disponíveis na base de dados do Gutendex. Trata-se de uma aplicação de linha de comando (CLI) que oferece várias funcionalidades para interagir com os dados dos livros.
+O projeto Challenge LiterAlura consiste em consumir a API do Gutendex, que é uma API de livros. Este projeto permite buscar, listar e exibir informações sobre livros disponíveis na base de dados do Gutendex. Trata-se de uma aplicação de linha de comando (CLI) que oferece várias funcionalidades para interagir com os dados dos livros.
 
 
 ### Funcionalidades
