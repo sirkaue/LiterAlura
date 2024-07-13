@@ -129,7 +129,14 @@ public class Menu {
 
         String idiomaEscolhido = sc.nextLine();
         livroList = livroRepository.findAllByIdioma(idiomaEscolhido);
+
+        if (livroList.isEmpty()) {
+            System.out.println("Idioma não encontrado.");
+        } else {
+            livroList.forEach(System.out::println);
+        }
     }
+
 
     private ResultDto getDadosLivro() {
         System.out.println("Digite o nome do livro que deseja buscar: ");
